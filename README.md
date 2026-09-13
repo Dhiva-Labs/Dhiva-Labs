@@ -22,4 +22,10 @@ I’m always looking for "remarkable" projects to contribute to or founders to b
 - 📫 **Reach out:** Connect with me on [LinkedIn](https://www.linkedin.com/company/dhiva-labs) or open a discussion in one of my repositories.
 
 ---
+### Product policies
+
+- [DhivaLabs Shell — privacy policy](docs/dhivalabs-shell/privacy-policy.md)
+- [DhivaLabs Shell — support](docs/dhivalabs-shell/support.md)
+
+---
 *Built with precision. Driven by curiosity.*
