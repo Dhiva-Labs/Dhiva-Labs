@@ -1,33 +1,28 @@
-# 🧪 Dhiva-Labs
+# Dhiva Labs
 
-> **"Let’s Build Something Remarkable."**
+Company documents and product policies for [Dhiva Labs](https://www.dhivalabs.com/), an independent software lab in Chennai, India.
 
-Welcome to **Dhiva-Labs**, my independent software laboratory and creative side-venture. While my daily focus is within the startup ecosystem, this space is dedicated to deep-tech experimentation, high-performance architecture, and collaborative builds.
+The apps themselves live in their own repositories. See the [Dhiva Labs organization page](https://github.com/Dhiva-Labs) for the full catalog, release versions and install options.
 
-### 🔬 About the Lab
-Dhiva-Labs is where I bridge the gap between technical complexity and elegant software. I believe that even a side-project should be engineered with the precision of a production-grade system. 
+## Product policies
 
-- **The Focus:** Scalable systems, clean architecture, and developer-centric tools.
-- **The Philosophy:** Software is a collaborative craft. I built this lab to invite new ideas and partner with others to turn "what if" into "it works."
+### DhivaLabs Shell for Windows
 
-### 🛠 Technical Stack
-* **Languages:** [Python,C++,TypeScript,R]
-* **Frameworks:** [React, Node.js, FastAPI]
-* **Infrastructure:** [Docker, AWS, PostgreSQL]
+A Bash-based developer terminal for Windows with separate Git and SSH profiles, published on the Microsoft Store.
 
-### 🤝 Let's Collaborate
-I’m always looking for "remarkable" projects to contribute to or founders to brainstorm with. 
-- 🔭 **Current Focus:** [Fixing real world inconvenience]
-- 💬 **Ask me about:** Startup engineering, system optimization, or high-end tech aesthetics.
-- 📫 **Reach out:** Connect with me on [LinkedIn](https://www.linkedin.com/company/dhiva-labs) or open a discussion in one of my repositories.
+- [Privacy policy](docs/dhivalabs-shell/privacy-policy.md)
+- [Support](docs/dhivalabs-shell/support.md)
+- [Microsoft Store submission information](docs/dhivalabs-shell/store-submission.md)
 
----
-### Product policies
+Bug reports and feature requests for DhivaLabs Shell go in this repository's [issues](https://github.com/Dhiva-Labs/Dhiva-Labs/issues/new). Never attach private keys, passwords, tokens or other secrets, and report security issues privately by email.
 
-- [DhivaLabs Shell — privacy policy](docs/dhivalabs-shell/privacy-policy.md)
-- [DhivaLabs Shell — support](docs/dhivalabs-shell/support.md)
+## Contact
 
-### Sponsors
+- Email: [reachout@dhivalabs.com](mailto:reachout@dhivalabs.com)
+- Website: [dhivalabs.com](https://www.dhivalabs.com/)
+- LinkedIn: [Dhiva Labs](https://www.linkedin.com/company/dhiva-labs)
+
+## Sponsors
 
 Dhiva Labs is an independent, self-funded lab. [Sponsorships](https://github.com/sponsors/Dhiva-Labs) help bring this project and the rest of Dhiva Labs to every platform, iPhone and Mac included.
 
@@ -38,6 +33,3 @@ Monthly sponsors at $10 and up are listed here:
 <!-- sponsors -->
 *Be the first: [sponsor Dhiva Labs](https://github.com/sponsors/Dhiva-Labs).*
 <!-- sponsors -->
-
----
-*Built with precision. Driven by curiosity.*
